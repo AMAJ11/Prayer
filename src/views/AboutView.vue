@@ -1,5 +1,6 @@
 <template>
   <div class="about" style="text-align: center; padding: 5%;">
+    <v-alert color="grey"> "كلنا لفلسطين❤️"  </v-alert>
     <v-row>
       <v-col class="" style="border: 2px dashed black;" cols="12" sm="12" md="10" lg="8">
         <v-progress-linear v-if="this.lod" indeterminate></v-progress-linear>
