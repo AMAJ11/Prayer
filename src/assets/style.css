@@ -1,0 +1,8 @@
+@font-face{
+    font-family: IPM;
+    src:url('./IBM_Plex_Sans_Arabic/IBMPlexSansArabic-Regular.ttf')
+}
+*{
+    font-family: IPM !important;
+    font-weight: 700;
+}
