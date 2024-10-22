@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <div style="height: 100vh;padding:5% 1% ;direction: rtl;" class="land">
-      <v-alert color="grey"> "كلنا لفلسطين❤️"  </v-alert>
+      <v-alert color="grey"> "  كلنا لفلسطين و لبنان❤️" </v-alert>
       <v-row>
         <v-col>
           <p class="text-h4 mb-2 mt-10 date">
