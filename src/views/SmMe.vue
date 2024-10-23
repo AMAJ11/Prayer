@@ -51,6 +51,9 @@
 .bt:hover {
     translate: 0 -8px;
 }
+a{
+    text-decoration: none
+}
 </style>
 <script>
 export default {
